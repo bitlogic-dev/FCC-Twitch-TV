@@ -1,0 +1,18 @@
+.container {
+	width: 100%;
+	border: 1px solid #000000;
+	padding: 10px;
+	background-color: #DDDDDD;
+}
+#output {
+	margin-top: 20px;
+}
+
+a {
+	text-decoration: none;
+	color: #d15656;
+}
+
+a:hover {
+	text-decoration: underline;
+}
