@@ -10,6 +10,7 @@ button {
 
 .container {
 	width: 100%;
+	max-width: 600px;
 	border: 1px solid #000000;
 	padding: 10px;
 	color: #333;
@@ -30,7 +31,7 @@ button {
 
 a {
 	text-decoration: none;
-	color: #ffcf3e;
+	color: #fb2e01;
 }
 
 a:hover {
