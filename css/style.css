@@ -1,16 +1,36 @@
+body {
+	background-color:  	#666547;
+	color: #ffe28a;
+}
+
+button {
+	background-color:  	#ffe28a;
+	color: #333;
+}
+
 .container {
 	width: 100%;
 	border: 1px solid #000000;
 	padding: 10px;
-	background-color: #DDDDDD;
+	color: #333;
 }
+
 #output {
 	margin-top: 20px;
 }
 
+.online {
+	background-color:  	#6fcb9f;
+}
+
+.offline {
+	background-color: #fb2e01;
+	color: #ffe28a;
+}
+
 a {
 	text-decoration: none;
-	color: #d15656;
+	color: #ffcf3e;
 }
 
 a:hover {
